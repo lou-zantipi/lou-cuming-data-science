@@ -1,0 +1,15 @@
+site_name: Lou Cuming Website
+# site_url: https://ntno.github.io/mkdocs-terminal
+# repo_url: https://github.com/ntno/mkdocs-terminal
+# edit_uri_template: https://github.com/ntno/mkdocs-terminal/edit/main/documentation/docs/{path}
+copyright: Copyright 2025 Louise Cuming, All rights reserved
+# site_author: lc
+
+nav:
+  - Home: index.md
+  - Resume: resume.md
+  - Connect: connect.md
+
+theme:
+  name: terminal
+  color_mode: auto
