@@ -1,3 +1,3 @@
 # Connect with me...
-- [Email](louise.cuming+website@gmail.com)
+- [Email](mailto:louise.cuming+website@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/louise-cuming/)
